@@ -1,37 +1,25 @@
 # 谭景青（2001040056）
 ## 个人简介
-姓名：谭景青
-性别：女
-出生年月：2001年11月04日
-籍贯：湖南长沙
-政治面貌：入党积极分子
-电子邮件：2270354928@qq.com
+1.姓名：谭景青
+
+2.性别：女
+
+3.出生年月：2001年11月04日
+
+4.籍贯：湖南长沙
+
+5.政治面貌：入党积极分子
+
+6.电子邮件：2270354928@qq.com
 ## 技能总结
-手机p图、运营淘宝店、拍照
+手机p图、运营淘宝店、拍照、公众号推文
 ## 兴趣爱好
-跑步、吃美食、拍风景、看电影、交朋友、参加团聚活动
+跑步、吃美食、拍风景、看电影、交朋友、参加团聚活动等
 ## 教育背景
-大学大二阶段，就读于湖南工商大学经济与贸易学院电子商务专业
+现就读于湖南工商大学经济与贸易学院电子商务专业，处于大二学年
 ## 主修课程
 管理学、经济学、电子商务、初级财务会计
 ## 获奖情况
-无
+初高中六年荣获“三好学生”奖项，运动会女子200米第一名
 ## 自我评价
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Tanjingqing/tanjingqing.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+  本人乐观开朗，积极向上，有较强的组织沟通能力，喜欢迎接新的挑战。学习能力较强，专业知识的系统学习和足够的工作实践，使我具备了较强的学习工作能力。有较强的独立思考解决问题的能力，容易接受新知识及理念，善于总结经验教训，并运用到实际工作当中。务实、脚踏实地的学习，有较好的团队合作精神。
