@@ -1,16 +1,12 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Tanjingqing/tanjingqing.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
+谭景青（2001040056）
+个人简介
+姓名：谭景青
+性别：女
+出生年月：2001年11月04日
+籍贯：湖南长沙
+专业：电子商务
+政治面貌：入党积极分子
+电子邮件：2270354928@qq.com
 # Header 1
 ## Header 2
 ### Header 3
